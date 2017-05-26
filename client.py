@@ -5,7 +5,7 @@ fileNames = pk.load(open('testFiles.pk'))
 
 # NOTE: Set this to the location of the server, and the port it's listening on.
 SERVER_LOCATION = "127.0.0.1"
-SERVER_PORT = 80
+SERVER_PORT = 6856
 # If you're running it locally, just update the port. Otherwise, use an IP address or a a domain name for the server location.
 
 def get_features():

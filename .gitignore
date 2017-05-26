@@ -94,3 +94,9 @@ target/
 *.project
 *.settings
 Makefile
+
+#mails
+enron/*
+
+#vhe input file
+vhe.in
